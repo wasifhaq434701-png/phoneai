@@ -1,0 +1,11 @@
+{
+ "retrieval": {
+  "load": 70.72120851080399,
+  "embed": 5.79366649617441,
+  "index": 167.95637499308214,
+  "select": 12.919271001010202,
+  "chunks_per_user": 7992.39,
+  "n": 100,
+  "note": "LME-M, 1 CPU thread, M4 Max; median ms; select = hybrid @2K incl. BM25 scoring; index = BM25 build"
+ }
+}

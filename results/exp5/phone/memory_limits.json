@@ -1,0 +1,8 @@
+{
+  "device": "iPhone13,3 (iPhone 12 Pro, 6 GB, iOS 27.2)",
+  "app_footprint_without_model_bytes": 34834248,
+  "app_footprint_after_load_bytes": 2313817464,
+  "with_increased_memory_limit": {"available_at_launch_gb": 4.27, "jetsam_highwater_bytes": 4344872960, "source": "JetsamEvent 2026-10-23 03:12, 265190 pages x 16 KB"},
+  "without_increased_memory_limit": {"available_at_launch_gb": 3.20, "limit_gb_est": 3.23, "source": "os_proc_available_memory on screen, build signed with extended-virtual-addressing only"},
+  "note": "Qwen3-4B-4bit peaks at 3.34/3.45/3.73 GB (1K/2K/4K) and ~4.0 GB (8K, after the KV pre-size fix): without the entitlement even 2K does not fit."
+}

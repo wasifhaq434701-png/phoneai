@@ -1,0 +1,42 @@
+{
+ "idle_W": 0.55,
+ "prefill": {
+  "1000": {
+   "n": 9,
+   "prompt_tok": 1136,
+   "prefill_tok_s": 38.5920072677316,
+   "ttft_s": 29.436147027,
+   "prefill_J": 113.52819199459353,
+   "decode_tok_s_median": 0.41567656373482814
+  },
+  "2000": {
+   "n": 9,
+   "prompt_tok": 2155,
+   "prefill_tok_s": 27.68121200564018,
+   "ttft_s": 77.850637449,
+   "prefill_J": 230.6634594013409,
+   "decode_tok_s_median": 0.4059747522748094
+  },
+  "4000": {
+   "n": 9,
+   "prompt_tok": 4172,
+   "prefill_tok_s": 20.336938326017858,
+   "ttft_s": 205.143956928,
+   "prefill_J": 559.9538483143218,
+   "decode_tok_s_median": 0.38668483376495516
+  },
+  "8000": {
+   "n": 9,
+   "prompt_tok": 8209,
+   "prefill_tok_s": 13.676255372833598,
+   "ttft_s": 600.237402433,
+   "prefill_J": 1694.3507904992364,
+   "decode_tok_s_median": 0.3254727706015266
+  }
+ },
+ "grids": [
+  "results/exp5/android/pixel8/bench-Pixel_8-qwen3-4b-q4_0-grid-p1-1793703278.json",
+  "results/exp5/android/pixel8/bench-Pixel_8-qwen3-4b-q4_0-grid-p1-1793713582.json",
+  "results/exp5/android/pixel8/bench-Pixel_8-qwen3-4b-q4_0-grid-p1-1793722294.json"
+ ]
+}

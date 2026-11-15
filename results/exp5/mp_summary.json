@@ -1,0 +1,288 @@
+{
+ "u4": {
+  "acc": 0.585,
+  "GB": 2.263022417,
+  "vs_u4": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "vs_community4bit": [
+   -0.01,
+   -0.0375,
+   0.0175
+  ],
+  "types": {
+   "knowledge-update": 0.7301587301587301,
+   "multi-session": 0.37735849056603776,
+   "single-session-assistant": 0.9333333333333333,
+   "single-session-preference": 0.5833333333333334,
+   "single-session-user": 0.8035714285714286,
+   "temporal-reasoning": 0.44339622641509435
+  }
+ },
+ "w": {
+  "acc": 0.47,
+  "GB": 2.263022303,
+  "vs_u4": [
+   -0.115,
+   -0.1625,
+   -0.065
+  ],
+  "vs_community4bit": [
+   -0.125,
+   -0.175,
+   -0.0725
+  ],
+  "types": {
+   "knowledge-update": 0.6666666666666666,
+   "multi-session": 0.29245283018867924,
+   "single-session-assistant": 0.8,
+   "single-session-preference": 0.4583333333333333,
+   "single-session-user": 0.6785714285714286,
+   "temporal-reasoning": 0.2830188679245283
+  }
+ },
+ "m": {
+  "acc": 0.4225,
+  "GB": 2.263022303,
+  "vs_u4": [
+   -0.1625,
+   -0.2125,
+   -0.1125
+  ],
+  "vs_community4bit": [
+   -0.1725,
+   -0.2225,
+   -0.1225
+  ],
+  "types": {
+   "knowledge-update": 0.6349206349206349,
+   "multi-session": 0.2169811320754717,
+   "single-session-assistant": 0.7555555555555555,
+   "single-session-preference": 0.20833333333333334,
+   "single-session-user": 0.6428571428571429,
+   "temporal-reasoning": 0.29245283018867924
+  }
+ },
+ "r": {
+  "acc": 0.52,
+  "GB": 2.263022515,
+  "vs_u4": [
+   -0.065,
+   -0.1125,
+   -0.0175
+  ],
+  "vs_community4bit": [
+   -0.075,
+   -0.1225,
+   -0.0275
+  ],
+  "types": {
+   "knowledge-update": 0.7619047619047619,
+   "multi-session": 0.32075471698113206,
+   "single-session-assistant": 0.8222222222222222,
+   "single-session-preference": 0.3333333333333333,
+   "single-session-user": 0.8214285714285714,
+   "temporal-reasoning": 0.330188679245283
+  }
+ },
+ "u8": {
+  "acc": 0.575,
+  "GB": 4.274158989,
+  "vs_u4": [
+   -0.01,
+   -0.0475,
+   0.0275
+  ],
+  "vs_community4bit": [
+   -0.02,
+   -0.0575,
+   0.0175
+  ],
+  "types": {
+   "knowledge-update": 0.7619047619047619,
+   "multi-session": 0.36792452830188677,
+   "single-session-assistant": 0.8888888888888888,
+   "single-session-preference": 0.4583333333333333,
+   "single-session-user": 0.8392857142857143,
+   "temporal-reasoning": 0.42452830188679247
+  }
+ },
+ "x6w": {
+  "acc": 0.585,
+  "GB": 2.414410607,
+  "vs_u4": [
+   0.0,
+   -0.0375,
+   0.0375
+  ],
+  "vs_community4bit": [
+   -0.01,
+   -0.0475,
+   0.0275
+  ],
+  "types": {
+   "knowledge-update": 0.7777777777777778,
+   "multi-session": 0.37735849056603776,
+   "single-session-assistant": 0.8888888888888888,
+   "single-session-preference": 0.5833333333333334,
+   "single-session-user": 0.8035714285714286,
+   "temporal-reasoning": 0.4339622641509434
+  }
+ },
+ "x12w": {
+  "acc": 0.5725,
+  "GB": 2.565798793,
+  "vs_u4": [
+   -0.0125,
+   -0.0475,
+   0.025
+  ],
+  "vs_community4bit": [
+   -0.0225,
+   -0.0575,
+   0.0125
+  ],
+  "types": {
+   "knowledge-update": 0.7142857142857143,
+   "multi-session": 0.3584905660377358,
+   "single-session-assistant": 0.9333333333333333,
+   "single-session-preference": 0.75,
+   "single-session-user": 0.75,
+   "temporal-reasoning": 0.41509433962264153
+  }
+ },
+ "x6r": {
+  "acc": 0.57,
+  "GB": 2.414410697,
+  "vs_u4": [
+   -0.015,
+   -0.0425,
+   0.0125
+  ],
+  "vs_community4bit": [
+   -0.025,
+   -0.055,
+   0.005
+  ],
+  "types": {
+   "knowledge-update": 0.7142857142857143,
+   "multi-session": 0.33962264150943394,
+   "single-session-assistant": 0.8888888888888888,
+   "single-session-preference": 0.5,
+   "single-session-user": 0.8392857142857143,
+   "temporal-reasoning": 0.4528301886792453
+  }
+ },
+ "x12r": {
+  "acc": 0.6,
+  "GB": 2.565798913,
+  "vs_u4": [
+   0.015,
+   -0.015,
+   0.045
+  ],
+  "vs_community4bit": [
+   0.005,
+   -0.0275,
+   0.0375
+  ],
+  "types": {
+   "knowledge-update": 0.7619047619047619,
+   "multi-session": 0.36792452830188677,
+   "single-session-assistant": 0.9555555555555556,
+   "single-session-preference": 0.6666666666666666,
+   "single-session-user": 0.7857142857142857,
+   "temporal-reasoning": 0.4716981132075472
+  }
+ },
+ "x12s": {
+  "acc": 0.555,
+  "GB": 2.562849667,
+  "vs_u4": [
+   -0.03,
+   -0.0675,
+   0.0075
+  ],
+  "vs_community4bit": [
+   -0.04,
+   -0.0775,
+   -0.0025
+  ],
+  "types": {
+   "knowledge-update": 0.7301587301587301,
+   "multi-session": 0.3490566037735849,
+   "single-session-assistant": 0.8666666666666667,
+   "single-session-preference": 0.5833333333333334,
+   "single-session-user": 0.7857142857142857,
+   "temporal-reasoning": 0.39622641509433965
+  }
+ },
+ "u3": {
+  "acc": 0.4675,
+  "GB": 1.808857623,
+  "vs_u4": [
+   -0.1175,
+   -0.165,
+   -0.07
+  ],
+  "vs_community4bit": [
+   -0.1275,
+   -0.1775,
+   -0.0775
+  ],
+  "types": {
+   "knowledge-update": 0.6666666666666666,
+   "multi-session": 0.27358490566037735,
+   "single-session-assistant": 0.8,
+   "single-session-preference": 0.2916666666666667,
+   "single-session-user": 0.7321428571428571,
+   "temporal-reasoning": 0.3018867924528302
+  }
+ },
+ "x3s": {
+  "acc": 0.425,
+  "GB": 1.983511173,
+  "vs_u4": [
+   -0.16,
+   -0.21,
+   -0.11
+  ],
+  "vs_community4bit": [
+   -0.17,
+   -0.22,
+   -0.12
+  ],
+  "types": {
+   "knowledge-update": 0.5873015873015873,
+   "multi-session": 0.2641509433962264,
+   "single-session-assistant": 0.8444444444444444,
+   "single-session-preference": 0.3333333333333333,
+   "single-session-user": 0.5357142857142857,
+   "temporal-reasoning": 0.27358490566037735
+  }
+ },
+ "x3r": {
+  "acc": 0.5325,
+  "GB": 1.982364334,
+  "vs_u4": [
+   -0.0525,
+   -0.095,
+   -0.01
+  ],
+  "vs_community4bit": [
+   -0.0625,
+   -0.1075,
+   -0.015
+  ],
+  "types": {
+   "knowledge-update": 0.6349206349206349,
+   "multi-session": 0.32075471698113206,
+   "single-session-assistant": 0.8222222222222222,
+   "single-session-preference": 0.375,
+   "single-session-user": 0.8035714285714286,
+   "temporal-reasoning": 0.4528301886792453
+  }
+ }
+}
